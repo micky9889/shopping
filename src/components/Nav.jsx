@@ -68,7 +68,7 @@ const Nav = () => {
             >
               <p>search</p>
             </Link>
-          
+            
             <CiUser color="white" size={35} />
             <Link to="/cart" className="relative inline-block">
               <AiOutlineShoppingCart color="white" size={35} />
