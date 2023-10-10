@@ -55,7 +55,7 @@ const Nav = () => {
                 className="text-white"
                 onClick={() => handleClick("/girl")}
               >
-                Girl
+                Girls
               </Link>
             </li>
           </ul>
